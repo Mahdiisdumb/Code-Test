@@ -1,7 +1,7 @@
 #include <iostream>
 //not writing using namespace std; because i want control not discipline
 int main2() {
-	//using + instead of << is a problem data types are literally needed for things
+	//using + instead of << is a problem data types are literally needed for shit
 	//so how to use name string
 	std::string name; //I hope this is how you declare a string variable for name
 	//and it is!
