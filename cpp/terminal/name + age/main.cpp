@@ -1,11 +1,12 @@
 #include <iostream>
 //not writing using namespace std; because i want control not discipline
 int main2() {
-	//using + instead of << is a problem data types are literally needed for shit
+	//using + instead of << is a problem data types are literally needed for things
 	//so how to use name string
 	std::string name; //I hope this is how you declare a string variable for name
 	//and it is!
 	std::string age;
+	//changed this to a string because problems
 	std::cout << "What is your name?" << std::endl;
 	//this is the basic input for main2 but i need to change the data type to string for name and int for age i dont know how
 	//because i learnt ill just do this
